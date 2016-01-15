@@ -1,0 +1,19 @@
+{
+  "name": "comp2068-w2016-lesson01",
+  "authors": [
+    "joshmineiro <200311558@student.georgianc.on.ca>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/lib",
+    "test",
+    "tests"
+  ]
+}
